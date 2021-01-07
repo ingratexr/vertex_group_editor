@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+vertex_group_editor.zip
 
 # C extensions
 *.so
