@@ -1,5 +1,5 @@
 # Blender Vertex Group Editor
-Addon for Blender that lets you easily edit vertex group names
+Add on for Blender that lets you easily edit vertex group names
 
 ## What It Does
 This add on lets you manipulate the active object's vertex groups in the following ways:
