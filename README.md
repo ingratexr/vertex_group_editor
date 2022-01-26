@@ -17,6 +17,6 @@ After installing, toggle the n-panel open and under the Tools tab you should see
 
 ![Getting Started](./vge_screenshot.png)
 
-If you want to manipulate a suffix, specify it in the text field (it's ".001" by default because my use case is for manipulating rigs that I'm combining or splitting, and this is Blender's default suffix when bones are duplicated). Suffixes are case-sensitive.
+If you want to manipulate a suffix, specify it in the text field (it's ".001" by default because my use case is for manipulating rigs that I'm combining or splitting, and this is Blender's default suffix when bones are duplicated). Suffixes are case sensitive.
 
 If you want to specify a list of vertex groups to keep, deleting all others, type them into the Groups text field. Group names can be separated by comma or white space. The group names you specify are not case sensitive.
